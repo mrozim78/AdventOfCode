@@ -5,6 +5,7 @@ using System.Linq;
 namespace AdventOfCode2019
 {
     // Task day 1
+    // https://adventofcode.com/2019/day/1
     public class Task1
     {
         static void Main(string[] args)
