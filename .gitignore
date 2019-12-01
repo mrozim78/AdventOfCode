@@ -1,0 +1,19 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+.idea/.idea.AdventOfCode/.idea/.gitignore
+.idea/.idea.AdventOfCode/.idea/contentModel.xml
+.idea/.idea.AdventOfCode/.idea/encodings.xml
+.idea/.idea.AdventOfCode/.idea/indexLayout.xml
+.idea/.idea.AdventOfCode/.idea/modules.xml
+.idea/.idea.AdventOfCode/.idea/projectSettingsUpdater.xml
+.idea/.idea.AdventOfCode/.idea/vcs.xml
+.idea/.idea.AdventOfCode/riderModule.iml
+AdventOfCode2019/bin/
+AdventOfCode2019/obj/
