@@ -8,7 +8,7 @@ namespace AdventOfCode2019
     // https://adventofcode.com/2019/day/1
     public class Task1
     {
-        static void Main(string[] args)
+        public void Run()
         {
             #region Input data
             int[] input =
