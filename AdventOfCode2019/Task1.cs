@@ -129,8 +129,8 @@ namespace AdventOfCode2019
                 }
             }
             
-            Console.WriteLine($"Sum is {requiredFuelArrayOne.Sum()}");
-            Console.WriteLine($"Sum all {requiredFuelArray.Sum()}");
+            Console.WriteLine($"First part - result =  {requiredFuelArrayOne.Sum()}");
+            Console.WriteLine($"Second part - result =  {requiredFuelArray.Sum()}");
         }
     }
 }

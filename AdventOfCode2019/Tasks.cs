@@ -17,6 +17,11 @@ namespace AdventOfCode2019
                     Task1 task1 = new Task1();
                     task1.Run();
                     break;
+                case 2:
+                    Console.Out.WriteLine("Run Task2");
+                    Task2 task2 = new Task2();
+                    task2.Run();
+                    break;
             }
         }
     }
