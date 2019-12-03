@@ -20,8 +20,6 @@ namespace AdventOfCode2019
             };
             #endregion
 
-            int counter = -1;
-            bool endProgram = false;
             
             //before running the program, replace position 1 with the value 12 and replace position 2 with the value 2. What value is left at position 0 after the program halts?
 
